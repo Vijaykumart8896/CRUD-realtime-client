@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "180715399079",
+    "project_id": "crud-client-70a40",
+    "storage_bucket": "crud-client-70a40.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:180715399079:android:6e021296d55257ec677882",
+        "android_client_info": {
+          "package_name": "com.reconn.crudadmin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_eLwQpocjhJsA7RI8DOKA6Aem7ZZcbdU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
